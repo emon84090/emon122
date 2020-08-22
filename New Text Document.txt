@@ -1,0 +1,51 @@
+<table class="table-bordered text-center ">
+	
+<tr>
+	<td>Fitness Class</td>
+	<td>10:00AM - 11:30AM</td>
+	<td></td>
+	<td>William G. Stewart</td>
+
+
+</tr>
+
+<tr>
+	<td>Muscle Training</td>
+	<td></td>
+	<td></td>
+	<td>Paul D. Newman</td>
+
+
+</tr>
+
+
+<tr>
+	<td>Body Building</td>
+	<td></td>
+	<td>2:00PM - 3:30PM</td>
+	<td>Boyd C. Harris</td>
+
+
+</tr>
+<tr>
+	<td>Yoga Training Class</td>
+	<td></td>
+	<td></td>
+	<td>Hector T. Daigle</td>
+
+
+</tr>
+<tr>
+	<td>Advanced Training</td>
+	<td></td>
+	<td></td>
+	<td>Bret D. Bowers</td>
+
+
+</tr>
+
+
+
+
+
+</table>

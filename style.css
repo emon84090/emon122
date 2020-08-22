@@ -1,0 +1,215 @@
+.nav-item{
+
+margin-right: 40px;
+padding: 10px 3px;
+
+}
+
+.nav-item:hover{
+
+
+	color:#F9735B !important; 
+}
+.nav-link{
+
+font-size: 20px;
+
+}
+.emon{
+
+    margin-right: 250px;
+    padding: 10px 20px;
+    background: #F9735B;
+
+
+}
+.emon a{
+
+	color: white;
+	font-weight: bold;
+}
+
+.navbar{
+
+	background: #60676F !important;
+	opacity: 0.9;
+}
+.nav-link{
+
+	color: white !important;
+}
+.nav-link:hover{
+
+	background:#F9735B !important; 
+}
+.navbar-brand{
+
+
+
+	font-size: 33px;
+	text-transform: uppercase;
+	margin-left: 10px;
+	font-family: poppins;
+	font-weight: bold;
+}
+
+#emon-1{
+
+background:  linear-gradient(rgba(0, 0, 0, 0.47),rgba(0, 0, 0, 0.57)),url('slide-01.jpg');
+background-size: cover;
+min-height: 600px;
+background-attachment: fixed;
+
+}
+
+#emon-1 h1{
+
+
+	color: white;
+	font-size: 100px;
+	text-align: center;
+
+}
+.head{
+
+	text-align: center;
+	margin-top: 100px;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+.head h3{
+
+	color: white;
+}
+.head a{
+ 
+padding: 10px 20px;
+
+text-decoration: none;
+background: #F9735B;
+color: white;
+border-radius: 20px;
+
+}
+#about h1{
+
+
+	font-size: 50px;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+.flo img{
+
+
+	float: left;
+	margin-right: 25px;
+}
+.flo a{
+
+margin-left: 122px;
+text-decoration: none;
+color:#F9735B; 
+
+}
+
+#emon-2{
+
+
+	background: url('cta-bg.jpg');
+	background-size: cover;
+}
+
+.jahi{
+
+
+	text-align: center;
+	color: white;
+}
+
+.jahi h1{
+
+	font-size: 50px;
+}
+
+.jahi a{
+
+
+	padding: 10PX 20PX;
+	background:  #F9735B;
+	color: white;
+	text-decoration: none;
+}
+
+.list-group-item{
+
+	font-size: 20px;
+	font-weight: bold;
+	font-family: arial;
+}
+
+.list-group img{
+
+	float: left;
+}
+
+#Schedule{
+
+
+	background: url('schedule-bg.jpg');
+	background-size: cover;
+	min-height: 1000px;
+}
+#Schedule h1{
+
+font-weight: bold;
+}
+
+.table-bordered td{
+
+
+
+}
+.table-bordered{
+
+	margin-left: 250px;
+
+}
+
+.footer{
+
+	background: black;
+	color: white;
+}
+
+@media(max-width: 768px){
+
+
+
+	.table-bordered{
+
+	margin-left: 100px;
+
+}
+
+}
+@media(max-width: 576px){
+
+
+
+	.table-bordered{
+
+	margin-left: 0px;
+
+}
+
+}
+@media(max-width: 576px){
+
+#emon-1 h1,h3{
+
+font-size: 50px;
+
+}
+
+}
